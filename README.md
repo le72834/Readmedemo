@@ -21,4 +21,4 @@ Just an editor and git!
 3. Joe - Video
 4. Jarrod - Design 
 ## License
-This project is licensed under the MIT License..
+This project is licensed under the MIT License...
